@@ -12,4 +12,3 @@ router.get("/:id",protectRoute,getCurrentChatMessages)
 export default router
 // Todo: add socket.io to the server 
 // Todo : configure this server for te deployment
-// at leaset for now 
